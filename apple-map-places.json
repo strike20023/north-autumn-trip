@@ -1,0 +1,425 @@
+{
+  "verifiedMethod": "Native MKLocalSearch identity and coordinate matching; web UI currently has loading errors, not all-device navigation verification.",
+  "places": {
+    "莫尔格勒河曲观景": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F96EB86BCE4D",
+      "id": "H2710I3F96EB86BCE4D",
+      "name": "Hulun Buir Grassland Mo'ergele River Scenic Area",
+      "address": "332 National Road, Old Barag, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "额尔古纳市区湿地": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926797F0223",
+      "id": "H2710I3F926797F0223",
+      "name": "Erguna Wetland Scenic Area",
+      "address": "Northwest Suburb, Labu Dalin Residential District (3 Kilometres of Downtown), Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "敖鲁古雅驯鹿园": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F92678CFB9F1",
+      "id": "H2710I3F92678CFB9F1",
+      "name": "Aoluguya Employ Deer Tribes Scenic Area",
+      "address": "Aolu Guya Road No.7, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "国门景区": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3CE7E87",
+      "id": "H2710I3F825E3CE7E87",
+      "name": "Guomen Scenic Area South Gate Parking Lot",
+      "address": "Western Zhong'e Border Chuguomen Scenic Area Inner, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "中苏金街等公共街区轻散步": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3BF03AF",
+      "id": "H2710I3F825E3BF03AF",
+      "name": "Middle Sujin Street",
+      "address": "Wudao Street, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "呼伦湖正规景区短停": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3CE7A57",
+      "id": "H2710I3F825E3CE7A57",
+      "name": "Hulunhu Tourism Area Ticket Office",
+      "address": "Tonghu Road Nearby Hulunhu Tourism Area Inner, Jalainur, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "驼峰岭天池（体力允许）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926840C5372",
+      "id": "H2710I3F926840C5372",
+      "name": "Tuofengling Tianchi Pool",
+      "address": "Tianchizhen A'ershan National Forest Park Inner (Northeast Corner), Zalantun, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "杜鹃湖": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F826571273A0",
+      "id": "H2710I3F826571273A0",
+      "name": "Dujuanhu",
+      "address": "Wenquan Street Northeast 92 Gonglide Arxan Forestry Bureau Xing'an Forest Farm Jingnei, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "不冻河周边合法开放点": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926796A006A",
+      "id": "H2710I3F926796A006A",
+      "name": "Arxan National Forest Park - Ice-free River",
+      "address": "Tianchizhen Mongolia, Xilinguole, Horqin, Hulun Buir Sida Grassland Intersection A'ershan National Forest Park Inner, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "顺丰验视、包装、收寄预留": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F98DD1B7BE06",
+      "id": "H2710I3F98DD1B7BE06",
+      "name": "SF Express (Arxan Shop)",
+      "address": "Wenquan Residential District Hot Spring Garden Building 1 No.6 Salesroom, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "顺成红焖羊肉（盛大家园店）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267DEF31BB",
+      "id": "H2710I3F9267DEF31BB",
+      "name": "Shunchenghong Braised Mutton Hotpot Restaurant (Shengda Jiayuan Branch)",
+      "address": "Labudalin Residential District Christian Church Opposite, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "铭源特色餐厅": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267C2AABE2",
+      "id": "H2710I3F9267C2AABE2",
+      "name": "Mingyuan Characteristic Restaurant",
+      "address": "Hasa'er Road No.214 Nearby, Erguna, Hulun Buir, Nei Mongol China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "蒙古缘蒙餐": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3BE48EF",
+      "id": "H2710I3F825E3BE48EF",
+      "name": "Mengguyuan Restaurant (Erguna Yunshan Hotel Shop)",
+      "address": "Yunshan Road Yunshan Unit Building 7 No.1 Salesroom, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "巷前铜涮": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F968900DFEDA",
+      "id": "H2710I3F968900DFEDA",
+      "name": "Xiangqian Tongshuan",
+      "address": "Jinque Street and Labu Dalin Road Intersection East 100 Meters, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "乡土源铁锅焖面": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926854882D9",
+      "id": "H2710I3F926854882D9",
+      "name": "Local Yuantieguomen Noodle Restaurant",
+      "address": "Baihe Road Yunhai Unit No.3, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "额尔古纳郑府小院": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9896A719A5A",
+      "id": "H2710I3F9896A719A5A",
+      "name": "Hulun Buir Zhengfu Yard Minsu (Erguna Wetland Shop)",
+      "address": "Labu Dalin Residential District Wenhua Street Tianshi Road No.22, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "额尔古纳鸿瑞驿栈(哈萨尔广场店)": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F99A17754442",
+      "id": "H2710I3F99A17754442",
+      "name": "Erguna Hongrui Yizhan (Hasa'er Guangchang Branch)",
+      "address": "Shengli Street No.006, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "森洋雅居民宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F999D9DAB13D",
+      "id": "H2710I3F999D9DAB13D",
+      "name": "Senyang Elegant Restaurant Minsu",
+      "address": "Labu Dalin Residential District Shengli Street No.163, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "额尔古纳凯宾思公寓": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F968E340A91B",
+      "id": "H2710I3F968E340A91B",
+      "name": "Erguna Kaibinsi Apartment",
+      "address": "Labu Dalinzhen Haisan Highway East Beijia'er Assembly Hall No.6 Apartment, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "额尔古纳璞悦·小院": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987B76B94B0",
+      "id": "H2710I3F987B76B94B0",
+      "name": "Erguna Puyue Yard",
+      "address": "Yingchun Street Baihe Road Rupin Alley No.19, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "洪水清真小吃部": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3BE3C8B",
+      "id": "H2710I3F825E3BE3C8B",
+      "name": "Hongshui Muslim Snack Bar",
+      "address": "Mingzhu Street Virescence Road East No.35, Genhe, Hulun Buir, Inner Mongolia China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "兴安饭店（森工路）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926797F20C3",
+      "id": "H2710I3F926797F20C3",
+      "name": "Xing'an Hotel (Sengong Road)",
+      "address": "Linhai Street and Sengong Road Intersection Southeast 40 Meters, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "川天椒麻辣烫（龙凤店）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267838CF63",
+      "id": "H2710I3F9267838CF63",
+      "name": "Chuantianjiao Spicy Hot Pot Longfeng Old Store",
+      "address": "Longfeng Agricultural Trade Great Market F1 West Side No.1, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "根河印象·主题餐厅": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267F5C9654",
+      "id": "H2710I3F9267F5C9654",
+      "name": "Genhe Impression Theme Restaurant",
+      "address": "Hedong Residential District Shengguang Homeland Building 2 No.15 Salesroom, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "根河安境民宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987F42B4177",
+      "id": "H2710I3F987F42B4177",
+      "name": "Genhe Anjing Minsu",
+      "address": "Haolibao Residential District Tuanjie Road, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "广源饭店": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9268D0A85EC",
+      "id": "H2710I3F9268D0A85EC",
+      "name": "Guangyuan Restaurant",
+      "address": "De'er Bu'erdeng, Genhe, Hulun Buir, Nei Mongol China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "清真姗姗馅饼店": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F95DADD21E10",
+      "id": "H2710I3F95DADD21E10",
+      "name": "Muslim Shanshan Pie Shop",
+      "address": "Z008 South 30 Meters, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "芳芳馅饼店": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F97BB73579AA",
+      "id": "H2710I3F97BB73579AA",
+      "name": "Fangfang Pie Shop",
+      "address": "De'erbu'erzhen People's Government East Side 160 Meters, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "赵军清真馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267BDC00A9",
+      "id": "H2710I3F9267BDC00A9",
+      "name": "Zhaojun Islamic Restaurant",
+      "address": "De'erbu'erzhen, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "额尔古纳瓦罗佳庄园·民宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9268354B068",
+      "id": "H2710I3F9268354B068",
+      "name": "Erguna Waluojia Manor Minsu",
+      "address": "Guangming Street Tianshi Road No.32, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "尚可小院·庭院别墅": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987E20FED07",
+      "id": "H2710I3F987E20FED07",
+      "name": "Shangke Yard Courtyard Villa",
+      "address": "Labu Dalin Road No.84, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "卢布里西餐厅（满洲里店）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267873A8D3",
+      "id": "H2710I3F9267873A8D3",
+      "name": "Lubuli Western Restaurant (Manzhouli Branch)",
+      "address": "Sandao Street North Border Trading Company Multiple-use Building Office Floor 1 Floor, 2 Floor, 3 Floor 4 409-426, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "清花饺子（桥苑嘉园店）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3CE6878",
+      "id": "H2710I3F825E3CE6878",
+      "name": "Qinghua Dumplings (Bridge Yuan Jiayuan Branch)",
+      "address": "Zhongsu Road Qiaoyuan Unit No.18 Salesroom, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "乌力吉塔拉奶茶馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9268383E805",
+      "id": "H2710I3F9268383E805",
+      "name": "Wuliji Tala Milk Tea Hall",
+      "address": "Sidao Street Laoshi Training School Multiple-use Building Floor 1 No.12, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "蒙祥原烤吧分店（五道街店）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3BE1141",
+      "id": "H2710I3F825E3BE1141",
+      "name": "Mengxiangyuan Barbecue (Wudao Street Branch)",
+      "address": "Wudao Street Zhonglv Hotel Opposite, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "君领民宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9898E856DC2",
+      "id": "H2710I3F9898E856DC2",
+      "name": "Junling Minsu",
+      "address": "Fada Xintiandi Unit Building 7 Room 1104, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "满洲里塔拉格日民宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F98CE19614D3",
+      "id": "H2710I3F98CE19614D3",
+      "name": "Manzhouli Tala Geri Minsu",
+      "address": "Yidao Street Yulongwan Building No.30 2 Unit 102, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "满洲里市子安别墅民宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987D09AD1E2",
+      "id": "H2710I3F987D09AD1E2",
+      "name": "Manzhouli Zi'an Villa Minsu",
+      "address": "Longfu Homeland Building 1 Building 1, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "杨子羊肉馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F931BFB97BFB",
+      "id": "H2710I3F931BFB97BFB",
+      "name": "Yangzi Mutton Restaurant",
+      "address": "Baiyinwula Road and Ke'erlun Street Intersection North 60 Meters, New Barag Youqi, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "赞歌草原生态火锅城": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9268199DA75",
+      "id": "H2710I3F9268199DA75",
+      "name": "Zange Grassland Ecology Hot Pot Restaurant",
+      "address": "Alatan'emolezhen Jingjing Mansion, New Barag Youqi, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "迎亲草原生态火锅城": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9486FB7D60E",
+      "id": "H2710I3F9486FB7D60E",
+      "name": "Yingqin Grassland Ecology Hot Pot Restaurant",
+      "address": "Nei Mongol Zizhiqu Hulun Buir New Barag Youqi A Zhenqubei'er Homeland Building 8 115 Salesroom, New Barag Youqi, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "阿尔山艳坤宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987CB7ECEB8",
+      "id": "H2710I3F987CB7ECEB8",
+      "name": "Arxan Yankun Hotel",
+      "address": "Yi'ershizhen Yilin Unit Building 4 Unit 1 Room 402, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "华兴砂锅炖": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267F1284A5",
+      "id": "H2710I3F9267F1284A5",
+      "name": "Huaxing Shaguodun",
+      "address": "Yi'ershizhen Shengda Homeland West Side No.10 Salesroom, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "友记小拜年东北小馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F937BBB5B72D",
+      "id": "H2710I3F937BBB5B72D",
+      "name": "Youjixiao Bainian Northeast Restaurant",
+      "address": "Yi'ershi Shengda Homeland Building 1 Salesroom West Side Di'erjia, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "家乡水铜锅涮肉": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F97573E18760",
+      "id": "H2710I3F97573E18760",
+      "name": "Hometown Shuitongguo Meat In Hot Pot",
+      "address": "Yi'ershizhen Meilin Commerce And Trade Chengdongshu No.5, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "林苑砂锅炖": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F98D2AF66842",
+      "id": "H2710I3F98D2AF66842",
+      "name": "Linyuan Casserole Dun",
+      "address": "Lvyou Road Tianchi Linyuan Resort Inner (Jinha Lahahe), Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "鑫鸿园山庄": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926782EA6E0",
+      "id": "H2710I3F926782EA6E0",
+      "name": "Arxan Xinhongyuan Mountain Villa",
+      "address": "Tianchi Service Area Huanchengdian 80 Meters, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "泽辉酒店餐厅": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F95261FCAB7B",
+      "id": "H2710I3F95261FCAB7B",
+      "name": "Arxan Zehui Hotel",
+      "address": "A'ershan National Forest Park Tianchi Service Area Jintianchi Forest Farm, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "渔家乐度假酒店餐厅": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267933A61E",
+      "id": "H2710I3F9267933A61E",
+      "name": "Arxan Fisherman Happy Holiday Hotel",
+      "address": "Tianchizhen, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "塞恩羊汤馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9ADB812D1AE",
+      "id": "H2710I3F9ADB812D1AE",
+      "name": "Sai'en Mutton Soup Restaurant",
+      "address": "Wenquan Residential District Wenquan Residential District Wenquan Residential District Wenquan Road No.33 Arxan Travel Resort Inner (West Side), Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "保力格冰煮羊（阿尔山创始店）": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F93EDC3D04F0",
+      "id": "H2710I3F93EDC3D04F0",
+      "name": "Baolige Bingzhuyang Feiyi Chuancheng (Arxan Chuangshi Shop)",
+      "address": "Wenquan Street No.67, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    },
+    "奈吉蒙餐": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267DEE6D64",
+      "id": "H2710I3F9267DEE6D64",
+      "name": "Naiji Mengcan",
+      "address": "Arxan Electric Power Bureau North to East Gate 490 Meters, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch",
+      "checked": "2026-09-23"
+    }
+  },
+  "unmatched": [
+    "满洲里临湖民宿",
+    "峰情园酒店早餐"
+  ]
+}
