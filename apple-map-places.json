@@ -528,6 +528,15 @@
       "address": "Sengong Residential District Guangming Unit Building 2 Salesroom, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
       "source": "本机 Apple MapKit MKLocalSearch / MKMapItemRequest",
       "checked": "2026-09-24"
+    },
+    "阿尔山亿方宾馆": {
+      "name": "Arxan Yifang Hotel",
+      "address": "Yi'ershizhen Shengda Homeland West Side Menshi Building, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "identifier": "H2710I3F92679229B87",
+      "url": "https://maps.apple.com/place?place-id=H2710I3F92679229B87",
+      "source": "MKLocalSearch and MKMapItemRequest",
+      "id": "H2710I3F92679229B87",
+      "checked": "2026-09-24"
     }
   },
   "unmatched": [
