@@ -214,6 +214,34 @@
 
 美团、大众点评与小红书暂未取得同店可核评论正文。
 
+## 额尔古纳瓦罗佳庄园·民宿
+
+### Trip.com（携程集团）
+
+2026-09-23 · 卫生间
+
+住客说清扫认真、水压足，但卫生间没有干湿分离。
+
+[查看原始页面](https://jp.trip.com/hotels/eerguna-hotel-detail-8983768/e-er-gu-na-wa-luo-jia-e-luo-si-jia-ting-you-zhu-su/)
+
+### Trip.com（携程集团）
+
+2026-09-16 · 空调噪音与卫生间
+
+住客肯定空间、卫生及早餐，同时指出空调老旧噪音大、卫生间未干湿分离。
+
+[查看原始页面](https://jp.trip.com/hotels/eerguna-hotel-detail-8983768/e-er-gu-na-wa-luo-jia-e-luo-si-jia-ting-you-zhu-su/)
+
+### Trip.com（携程集团）
+
+2026-07-11 · 卫生与位置
+
+住客连住三晚，称房间清洁宽敞；到主街需短程出租车，并非就在闹市中心。
+
+[查看原始页面](https://jp.trip.com/hotels/eerguna-hotel-detail-8983768/e-er-gu-na-wa-luo-jia-e-luo-si-jia-ting-you-zhu-su/)
+
+美团、大众点评与小红书暂未取得同店可核评论正文。
+
 ## 额尔古纳金林商务宾馆
 
 ### 携程/Trip.com
@@ -309,76 +337,6 @@ Trip.com同ID住客称设施环境基本与图片一致。
 [查看原始页面](https://hotels.ctrip.com/hotels/2981314.html)
 
 携程已读2条公开住客样本；美团、大众点评同店评论正文暂未取得。
-
-## 额尔古纳瓦罗佳庄园·民宿
-
-### Trip.com（携程集团）
-
-2026-09-23 · 卫生间
-
-住客说清扫认真、水压足，但卫生间没有干湿分离。
-
-[查看原始页面](https://jp.trip.com/hotels/eerguna-hotel-detail-8983768/e-er-gu-na-wa-luo-jia-e-luo-si-jia-ting-you-zhu-su/)
-
-### Trip.com（携程集团）
-
-2026-09-16 · 空调噪音与卫生间
-
-住客肯定空间、卫生及早餐，同时指出空调老旧噪音大、卫生间未干湿分离。
-
-[查看原始页面](https://jp.trip.com/hotels/eerguna-hotel-detail-8983768/e-er-gu-na-wa-luo-jia-e-luo-si-jia-ting-you-zhu-su/)
-
-### Trip.com（携程集团）
-
-2026-07-11 · 卫生与位置
-
-住客连住三晚，称房间清洁宽敞；到主街需短程出租车，并非就在闹市中心。
-
-[查看原始页面](https://jp.trip.com/hotels/eerguna-hotel-detail-8983768/e-er-gu-na-wa-luo-jia-e-luo-si-jia-ting-you-zhu-su/)
-
-美团、大众点评与小红书暂未取得同店可核评论正文。
-
-## 额尔古纳布里斯酒店(哈撒尔广场博物馆店)
-
-### 携程
-
-2026-07-20
-
-住客称房间整洁且较大，有加湿器、遮光窗帘与干湿分离卫浴。
-
-[查看原始页面](https://hotels.ctrip.com/hotels/10229261.html)
-
-### 携程
-
-2026-08-12
-
-另一住客报告装修气味、蟑螂和卫浴清洁问题，也抱怨停车距离及楼梯口噪声。
-
-单条强烈负评，不能据此断言每间房存在相同问题。
-
-[查看原始页面](https://hotels.ctrip.com/hotels/10229261.html)
-
-携程已读2条公开住客样本；美团、大众点评同店评论正文暂未取得。
-
-## 萩果酒店(额尔古纳市博物馆店)
-
-### 携程
-
-2026-09-23
-
-住客称客房宽敞、全屋智能操作方便且夜间安静，周边吃饭方便。
-
-[查看原始页面](https://hotels.ctrip.com/hotels/129325876.html)
-
-### 携程
-
-2026-09-13
-
-住客称房间干净、卫浴干湿分离、热水稳定，配有自助洗衣房及停车充电设施。
-
-[查看原始页面](https://hotels.ctrip.com/hotels/129325876.html)
-
-携程已读2条公开住客样本；美团、大众点评同店评论正文暂未取得。可读样本未给出明确住宿缺点，不构造负评。
 
 ## 额尔古纳市区湿地
 
