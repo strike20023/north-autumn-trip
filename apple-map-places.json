@@ -416,6 +416,110 @@
       "address": "Arxan Electric Power Bureau North to East Gate 490 Meters, Arxan, Hinggan, Nei Mongol Zizhiqu China",
       "source": "本机 Apple MapKit MKLocalSearch",
       "checked": "2026-09-23"
+    },
+    "额尔古纳海纳宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F92678893F8C",
+      "id": "H2710I3F92678893F8C",
+      "name": "Haina Hotel (Baihe Road Shop)",
+      "address": "Hongyan Street 65 Haoqiao Xifu Diguodun Houshen, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；同名同址",
+      "checked": "2026-09-24"
+    },
+    "满洲里贝都宾馆(中苏金街店)": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9842855D3EE",
+      "id": "H2710I3F9842855D3EE",
+      "name": "Manzhouli Beidu Hotel (Middle Sujin Street Shop)",
+      "address": "Shixihua Yuan Building 2 No.7-101, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；同名同址",
+      "checked": "2026-09-24"
+    },
+    "牧人嘎查食府(额尔古纳湿地景区店)": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F98D7D0E7F17",
+      "id": "H2710I3F98D7D0E7F17",
+      "name": "Muren Administrative Village Restaurant (Erguna Wetland Scenic Area Shop)",
+      "address": "Jinque Street No.502, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "额尔古纳金林商务宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926797EF41F",
+      "id": "H2710I3F926797EF41F",
+      "name": "Erguna Jinlin Business Hotel",
+      "address": "Hasa'er Road East Guangming Street North No.18, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "巷里民宿(额尔古纳湿地店)": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987ECEFE164",
+      "id": "H2710I3F987ECEFE164",
+      "name": "Alley Liminsu (Erguna Wetland Scenic Area Shop)",
+      "address": "Dingxiang Road Jintai Homeland Yiqiqi Haolou No.103 Salesroom, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "额尔古纳北雁宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267C2A2CC7",
+      "id": "H2710I3F9267C2A2CC7",
+      "name": "Beiyan Hotel",
+      "address": "Hasa'er Square Opposite, Erguna, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "根河惠金阁宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F92686B775F9",
+      "id": "H2710I3F92686B775F9",
+      "name": "Genhe Huijinge Hotel",
+      "address": "Central Street Industrial and Commercial Bank Courtyard, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "满洲里顶泰商务宾馆(中苏金街店)": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F92692720CCB",
+      "id": "H2710I3F92692720CCB",
+      "name": "Manzhouli Dingtai Business Hotel (Middle Sujin Street Shop)",
+      "address": "Fata Plaza, Wudao Street Memo's Hotel Building 17, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "满洲里江南大酒店(满洲里站中苏金街店)": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F825E3BE11EB",
+      "id": "H2710I3F825E3BE11EB",
+      "name": "Jiangnan Hotel",
+      "address": "No.8, Haiguan Road, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "阿尔山锦轩宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926798EC088",
+      "id": "H2710I3F926798EC088",
+      "name": "Jinxuan Hotel",
+      "address": "Yi'ershizhen Xincheng Street Electric Power East Side, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "同梦逸居宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F98C684D91F6",
+      "id": "H2710I3F98C684D91F6",
+      "name": "Tongmeng Yiju Hotel",
+      "address": "Yi'ershicun Tianchi Garden Unit Phase 2 Business & Living Building No.3 Store, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "阿尔山阳光家庭宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267CC48B49",
+      "id": "H2710I3F9267CC48B49",
+      "name": "Arxan Sunshine Family Hotel",
+      "address": "Yi'ershi Residential District Yi'ershi Street Yilinxiaoqu Building 1 5 Unit Room 202, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
+    },
+    "阿尔山逸和宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F926788A37D8",
+      "id": "H2710I3F926788A37D8",
+      "name": "Yihe Hotel",
+      "address": "Yi'ershizhen Linhai Street Yuan Office Of State Taxation West Side, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
+      "checked": "2026-09-24"
     }
   },
   "unmatched": [
