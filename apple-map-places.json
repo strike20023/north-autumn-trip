@@ -520,6 +520,14 @@
       "address": "Yi'ershizhen Linhai Street Yuan Office Of State Taxation West Side, Arxan, Hinggan, Nei Mongol Zizhiqu China",
       "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称地址及坐标一致",
       "checked": "2026-09-24"
+    },
+    "根河悦山宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F987E3F2F63A",
+      "id": "H2710I3F987E3F2F63A",
+      "name": "Genheyue Shan Hotel",
+      "address": "Sengong Residential District Guangming Unit Building 2 Salesroom, Genhe, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch / MKMapItemRequest",
+      "checked": "2026-09-24"
     }
   },
   "unmatched": [
