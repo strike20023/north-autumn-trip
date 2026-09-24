@@ -1,4 +1,4 @@
-const CACHE='north-public-legacy-v6';const ASSETS=['./','index.html','style.css','app.js','cards-data.js','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png'];
+const CACHE='north-public-legacy-v7';const ASSETS=['./','index.html','style.css','app.js','cards-data.js','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE&&(k.startsWith('north-day-one-')||k.startsWith('north-trip-cards-'))).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(fetch(e.request).then(r=>{if(r.ok&&ASSETS.some(p=>new URL(p,self.registration.scope).href===e.request.url)){const clone=r.clone();caches.open(CACHE).then(c=>c.put(e.request,clone))}return r}).catch(()=>caches.match(e.request).then(r=>r||(e.request.mode==='navigate'?caches.match('./'):Response.error()))))});
