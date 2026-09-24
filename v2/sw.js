@@ -1,4 +1,4 @@
-const CACHE='north-public-v18';const FILES=['./','index.html','style.css?v=18','app.js?v=18','data.js?v=18','manifest.webmanifest','../vendor/leaflet.js','../vendor/leaflet.css','../icon.svg','../icon-192.png','../icon-512.png'];
+const CACHE='north-public-v19';const FILES=['./','index.html','style.css?v=19','app.js?v=19','data.js?v=19','manifest.webmanifest','../vendor/leaflet.js','../vendor/leaflet.css','../icon.svg','../icon-192.png','../icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>(k.startsWith('north-simple-ui-')||/^north-public-v\d/.test(k))&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(fetch(e.request).catch(()=>caches.match(e.request).then(r=>r||(e.request.mode==='navigate'?caches.match('./'):Response.error()))))});
