@@ -537,6 +537,22 @@
       "source": "MKLocalSearch and MKMapItemRequest",
       "id": "H2710I3F92679229B87",
       "checked": "2026-09-24"
+    },
+    "满洲里芒果雅宿": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F97F4FEC27B7",
+      "id": "H2710I3F97F4FEC27B7",
+      "name": "Manzhouli MANGO Yasu",
+      "address": "Xinghua Street Wudao Street Yiwu Commerce and Trade City C6-C7 Salesroom, Manzhouli, Hulun Buir, Nei Mongol Zizhiqu China",
+      "source": "本机 Apple MapKit MKLocalSearch + MKMapItemRequest；名称、义乌商贸城C6及坐标匹配",
+      "checked": "2026-09-24"
+    },
+    "阿尔山一家宾馆": {
+      "url": "https://maps.apple.com/place?place-id=H2710I3F9267F48487E",
+      "id": "H2710I3F9267F48487E",
+      "name": "Arxan Yijia Hotel",
+      "address": "Yi'ershi Tianchi Garden Unit 2 Building No.2, Arxan, Hinggan, Nei Mongol Zizhiqu China",
+      "source": "本机 MapKit 搜索及ID解析；携程、高德名称门牌一致",
+      "checked": "2026-09-24"
     }
   },
   "unmatched": [
