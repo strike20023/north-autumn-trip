@@ -13,3 +13,5 @@
 - [住宿候选与房型](LODGING.md)
 - [平台评价摘记](REVIEWS.md)
 - [指定日期住宿预算核查](BUDGET.md)
+
+餐馆套餐、菜品及评价核查：[RESTAURANTS.md](RESTAURANTS.md)（2026-09-27）。历史套餐不表示国庆可用。
